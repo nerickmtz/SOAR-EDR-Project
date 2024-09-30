@@ -315,33 +315,33 @@ https://github.com/user-attachments/assets/58be7978-0eb1-4aa9-8e7c-6e119d9b26f7
 
 This video showcases the seamless integration of LimaCharlie, Tines, Slack, and email notifications to handle real-time incident response.
 
-### Skills Learned
+## Skills Learned
 
-Throughout the course of this project, several key skills and competencies were developed and honed, including:
+During this project, I picked up and developed several important skills that I’m really excited about, including:
 
-1. **Integration of SOAR Tools:**
-   - Successfully integrated multiple SOAR (Security Orchestration, Automation, and Response) tools like **LimaCharlie**, **Tines**, **Slack**, and **Email** into a seamless incident response workflow.
-   
-2. **Custom Detection Rules:**
-   - Gained experience in creating and testing **custom detection rules** in **LimaCharlie**, specifically targeting well-known malware (e.g., LaZagne.exe) using file path, command line, and hash-based detections.
+### Integration of SOAR Tools
+- Learned how to integrate different SOAR (Security Orchestration, Automation, and Response) tools like **LimaCharlie**, **Tines**, **Slack**, and **Email** into a smooth incident response workflow. It was interesting to see how these tools can work together.
 
-3. **Automation with Tines:**
-   - Mastered the use of **Tines** to automate detection, alerting, and decision-making processes through:
-     - Webhooks for retrieving detection events.
-     - Automated email and Slack notifications for real-time incident alerts.
-     - User prompts for decision-making (e.g., machine isolation).
+### Custom Detection Rules
+- Got hands-on experience with creating and testing custom detection rules in **LimaCharlie**. I focused on spotting well-known malware like **LaZagne.exe**, experimenting with file path, command line, and hash-based detections. It was a great learning opportunity.
 
-4. **HTTP API Requests:**
-   - Utilized **HTTP API requests** to automate machine isolation in **LimaCharlie**, allowing for hands-off execution of key remediation actions based on user inputs in Tines.
+### Automation with Tines
+- Spent time figuring out how to use **Tines** to automate some key parts of the workflow, like:
+  - Using webhooks to pull in detection events.
+  - Automating email and Slack notifications to keep everyone in the loop during incidents.
+  - Setting up user prompts for decision-making, like when we needed to isolate a machine.
+  
+### HTTP API Requests
+- I worked with HTTP API requests to automate actions like machine isolation in **LimaCharlie**. It was really cool to see how I could set this up so it runs automatically based on decisions made in **Tines**.
 
-5. **Incident Response Orchestration:**
-   - Developed skills in orchestrating a complete incident response workflow from detection to remediation, ensuring that incidents are handled efficiently with minimal manual intervention.
+### Incident Response Orchestration
+- I learned a lot about how to orchestrate the whole incident response process, from detection to remediation. It was great to see how automation can help minimize manual work and speed things up.
 
-6. **Slack and Email Notifications:**
-   - Configured **Slack** and **Email** integrations to deliver alerts and updates, enabling communication across security teams in real time.
+### Slack and Email Notifications
+- Set up **Slack** and **Email** notifications to send real-time alerts and updates, which was a good way to keep communication going across the team.
 
-7. **Security Best Practices:**
-   - Practiced and applied security best practices in detecting, analyzing, and mitigating threats, all within an automated and structured response framework.
+### Security Best Practices
+- I also learned a lot about security best practices, especially when it came to detecting, analyzing, and responding to threats in an automated way. It felt good to apply what I’ve learned and see it work in a real project.
 
 ---
 
